@@ -1,0 +1,31 @@
+.tabloid {
+    font-family: Lato;
+    margin: 20px;
+    font-size: 24px;
+    text-align: center;
+    span {
+      color: rgb(78, 7, 119);
+      font-size: 18px;
+    }
+  }
+  
+  .centerText {
+    text-align: center;
+    color: rgb(78, 7, 119);
+    font-family: Lato;
+    font-size: 25px;
+  }
+  
+  button {
+    width: 60px;
+    margin: 10px 20px;
+    padding: 10px;
+    background-color: rgb(78, 7, 119);
+    border-radius: 100%;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+  
+  
+  
